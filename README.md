@@ -3,4 +3,5 @@
 
 | Path | Description |
 | ------------ | :-------------|
-|/machine-learning/explore-your-data.py |  Getting familiar with data|
+|/machine-learning/explore-your-data.ipynb |  Getting familiar with data|
+|/machine-learning/your-first-machine-learning-model.ipynb | Creating a predictive model|
